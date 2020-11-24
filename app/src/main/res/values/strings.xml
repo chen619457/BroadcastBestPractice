@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">QQ龙</string>
+    <string name="ForgetPassword">忘记密码</string>
+    <string name="Userregistration">用户注册</string>
+    <string name="zh">请输入账号</string>
+    <string name="mm">请输入密码</string>
+    <string name="qz">强制下线</string>
+    <string name="Rememberthepassword">记住密码</string>
+</resources>
